@@ -37,7 +37,7 @@ def grab(url):
 print("#EXTM3U")
 print("#EXT-X-STREAM-INF:BANDWIDTH=10000000")
 s = requests.Session()
-with open("../information/ctinews.txt") as f:
+with open("../information/MCGIChannel.txt") as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith("~~"):
