@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Asia Satellite Television | | | |
+GMA | | | |
 https://www.youtube.com/@gmanetwork/live
