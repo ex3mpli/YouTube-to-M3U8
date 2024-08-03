@@ -1,1 +1,1 @@
-Usage: python script.py https://www.youtube.com/@abscbnentertainment/live abscbn.m3u8
+Usage: python abscbn.py https://www.youtube.com/@abscbnentertainment/live abscbn.m3u8
