@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Believe in Future TV | | | |
+GTV | | | |
 https://www.youtube.com/@gmanews/live
