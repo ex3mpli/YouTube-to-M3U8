@@ -84,7 +84,7 @@ def generate_m3u8(stream_url, output_path):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python script.py https://www.youtube.com/@abscbnentertainment/live abscbn.m3u8")
+        print("Usage: python abscbn.py https://www.youtube.com/@abscbnentertainment/live abscbn.m3u8")
         sys.exit(1)
 
     youtube_url = sys.argv[1]
