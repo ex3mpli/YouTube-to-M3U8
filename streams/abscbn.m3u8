@@ -1,2 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=10000000
+Usage: python script.py https://www.youtube.com/@abscbnentertainment/live abscbn.m3u8
